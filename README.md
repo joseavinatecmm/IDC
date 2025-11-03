@@ -1,2 +1,2 @@
 # IDC
-Intellingent Data Classification
+Intelligent Data Classification
